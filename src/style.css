@@ -19,6 +19,9 @@ td, th {
 }
 
 .number:hover {
+  transform: scale(1.2);
+}
+.number:active {
   transform: scale(.85);
 }
 .operation:hover{
